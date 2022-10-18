@@ -3,6 +3,5 @@
 {
     'name': 'Approvals',
     'version': '0.1',
-    'summary': 'Create and validate approval requests
-    '
+    'summary': 'Create and validate approval requests'
 }
